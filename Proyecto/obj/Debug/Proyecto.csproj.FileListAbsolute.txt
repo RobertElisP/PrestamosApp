@@ -1,0 +1,7 @@
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\pedro\OneDrive\Escritorio\Tareas FreeL\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
